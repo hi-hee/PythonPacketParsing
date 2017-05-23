@@ -4,9 +4,9 @@ Packet parsing code using scapy 3.0. It can get ethernet payload for binaryArray
 
 
 # Environment
-Windows 10 Enterprise.
-Python 3.5.
-Scapy 3.0.
+Windows 10 Enterprise\n
+Python 3.5
+Scapy 3.0
 
 
 If you want more information about Scapy Usage, follow this link.
